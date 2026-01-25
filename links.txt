@@ -6,7 +6,7 @@ https://raw.githubusercontent.com/waymedev/ACL4SSR/master/Clash/SpecialDIRECT.tx
 https://raw.githubusercontent.com/waymedev/ACL4SSR/master/Clash/SpecialMedia.txt
 https://raw.githubusercontent.com/waymedev/ACL4SSR/master/Clash/SpecialPROXY.txt
 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Xbox.list
-https://raw.githubusercontent.com/waymedev/ACL4SSR/master/Clash/Openai.list,OpenAI
+https://raw.githubusercontent.com/waymedev/ACL4SSR/master/Clash/Openai.list
 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Netflix.list
 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/YouTube.list
 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyMedia.list
