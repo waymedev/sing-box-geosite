@@ -1,0 +1,44 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "bybit",
+        "gatenode"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "api.loopring.network",
+        "binance.cloud",
+        "binance.com",
+        "bybit.com",
+        "coingecko.com",
+        "coinmarketcap.com",
+        "debank.com",
+        "feixiaohao.co",
+        "feixiaoquan.com",
+        "fxhapp.com",
+        "huobi.com",
+        "ipdata.co",
+        "kucoin.com",
+        "loopring.io",
+        "loopring.network",
+        "loopring.org",
+        "okex.com",
+        "okx.com",
+        "onekey-asset.com",
+        "onekey.so",
+        "qkl123.com",
+        "token.im",
+        "tokenlon.im",
+        "tongke.co",
+        "tongke.top",
+        "tradingview.com",
+        "zks.app",
+        "zks.org",
+        "zkswap.info"
+      ]
+    }
+  ],
+  "version": 2
+}

@@ -1,0 +1,34 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "assets1.xboxlive.com",
+        "assets2.xboxlive.com",
+        "assets3.xboxlive.com"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "115",
+        "falcon",
+        "mijia",
+        "miui",
+        "srv",
+        "weixin",
+        "xiaomi",
+        "youpin"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "ankichinas.cn",
+        "edu-helper.top",
+        "mi.com",
+        "mioffice.cn",
+        "msftconnecttest.com",
+        "uicdqg.xyz"
+      ]
+    }
+  ],
+  "version": 2
+}

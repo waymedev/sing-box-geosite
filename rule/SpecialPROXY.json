@@ -1,0 +1,30 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "anki",
+        "crates",
+        "dropbox",
+        "github",
+        "githubusercontent",
+        "linkedin",
+        "planetscale",
+        "reddit",
+        "remnote",
+        "stayinsession",
+        "todoist",
+        "v2ex"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "997990.xyz",
+        "anchor.fm",
+        "cloudfront.net",
+        "npmjs.org",
+        "web3.okx.com"
+      ]
+    }
+  ],
+  "version": 2
+}
