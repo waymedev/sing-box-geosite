@@ -18,6 +18,6 @@ https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/BilibiliH
 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaMedia.list
 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list
 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaCompanyIp.list
-https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Download.list,DIRECT
-https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list,DIRECT
-https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/GoogleCN.list,DIRECT
+https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Download.list
+https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
+https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/GoogleCN.list
